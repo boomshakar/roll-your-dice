@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/boomshakar/roll-your-dice)
-- Live Site URL: [Live site URL here](https://app.netlify.com/sites/rollyourdice)
+- Live Site URL: [Live site URL here](https://rollyourdice.netlify.app/)
 
 ### Built with
 
