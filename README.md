@@ -1,5 +1,3 @@
-
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -10,6 +8,7 @@
 - [Author](#author)
 
 ## Overview
+
 This is a simple dice game for everyone. Just refresh the page to generate a new random number.
 
 ### The challenge
@@ -25,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/boomshakar/3-column-preview-card-component)
-- Live Site URL: [Live site URL here](https://booms-3-column-card.netlify.app/)
+- Solution URL: [Solution URL here](https://github.com/boomshakar/roll-your-dice)
+- Live Site URL: [Live site URL here](https://app.netlify.com/sites/rollyourdice)
 
 ### Built with
 
@@ -36,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://boomshakar.netlify.app/contact.html)
-- Twitter - [@yourusername](https://www.twitter.com/_boomshakar)
+- Website - [Oluwafemi Sosanya](https://boomshakar.netlify.app/contact.html)
+- Twitter - [@_boomshakar_](https://www.twitter.com/_boomshakar)
